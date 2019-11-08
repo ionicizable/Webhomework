@@ -1,1 +1,1 @@
-[{"name":"Ilya","surname":"Shapiro","age":"18","mark":"8"},{"name":"Alex","surname":"Tuholko","age":"19","mark":"10"},{"name":"Anton","surname":"Hutsko","age":"20","mark":"10"}]
+{ "students" : [{"name":"Ilya","surname":"Shapiro","age":"18","mark":"8"},{"name":"Alex","surname":"Tuholko","age":"19","mark":"10"},{"name":"Anton","surname":"Hutsko","age":"20","mark":"10"}]}
